@@ -11,3 +11,6 @@
 ## Día 2 — Ejercicio 02
 - Descarga del dataset original y almacenamiento en data/raw.
 - Análisis de tipos de datos y valores nulos.
+
+### Día 3 — Ejercicio 03
+- Normalizar Fechas y Horas.

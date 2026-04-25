@@ -7,3 +7,7 @@
 - Creación de la rama Sprint_1.
 - Generación de la estructura de directorios del proyecto.
 - Creación de README.md y CHANGELOG.md.
+
+## Día 2 — Ejercicio 02
+- Descarga del dataset original y almacenamiento en data/raw.
+- Análisis de tipos de datos y valores nulos.

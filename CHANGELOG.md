@@ -15,3 +15,11 @@
 - Normalización de Ubicaciones y Patentes + Eliminación de nulos y Outliers
 
 - cálculo de columnas (exceso_velocidad_real/5%) + Filtrado de infracciones + Guardado en interim
+
+## Día 2 — Ejercicio 02
+- Descarga del dataset original y almacenamiento en data/raw.
+- Análisis de tipos de datos y valores nulos.
+
+- Normalización de Ubicaciones y Patentes + Eliminación de nulos y Outliers
+
+- cálculo de columnas (exceso_velocidad_real/5%) + Filtrado de infracciones + Guardado en interim

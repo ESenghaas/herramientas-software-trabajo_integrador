@@ -21,6 +21,9 @@ cálculo de columnas (exceso_velocidad_real/5%) + Filtrado de infracciones + Gua
 ### Día 4 — Ejercicio 04
 Creación de la Clase FineAnalyzer y todos sus métodos internos
 
-###Día 5 — Ejercicio 05
-- Gráficos y exportación a /plots
+### Día 5 — Ejercicio 05
+Gráficos y exportación a /plots
+
+### Día 6 — Ejercicio 06
+- Cálculo de porcentajes de error
 

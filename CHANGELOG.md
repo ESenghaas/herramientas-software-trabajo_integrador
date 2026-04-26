@@ -27,3 +27,6 @@ Gráficos y exportación a /plots
 ### Día 6 — Ejercicio 06
 - Cálculo de porcentajes de error
 
+
+### Día 7 — Ejercicio 07
+- Agrego conclusiones finales al README.md

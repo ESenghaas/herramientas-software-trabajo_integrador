@@ -27,22 +27,25 @@ Gráficos y exportación a /plots
 ### Día 6 — Ejercicio 06
 - Cálculo de porcentajes de error
 
-
 ### Día 7 — Ejercicio 07
 - Agrego conclusiones finales al README.md
 
 
-# SPRINT - 2
-
+## SPRINT - 2
 ### Día 1 — Ejercicio 01
 - Creación de rama Sprint_2 a partir de Sprint_1.
 - Descarga y descompresión del dataset de imágenes en data/raw/imgs.
 - Actualización de README.md con objetivo y contexto del Sprint 2.
 
 
+### Día 2 — Ejercicio 02
+- Listado de imágenes con nombre y tamaño en kb.
+- Separación en grupos plates/completes.
+- Generación de group_images.json en data/interim.
+- Función para mostrar 8 imágenes aleatorias en grilla 2x4.
+
 ### Día 3 — Ejercicio 03
-- Conversión de imágenes a escala de grises en
-  data/interim/imgs/03_01_gray_scale/plates y completes.
+- Conversión de imágenes a escala de grises en data/interim/imgs/03_01_gray_scale/plates y completes.
 - Suavizado gaussiano en data/interim/imgs/03_02_blur/plates y completes.
 - Detección de bordes Canny en data/interim/imgs/03_03_canny/plates y completes.
 - Visualización de imágenes procesadas en cada paso.

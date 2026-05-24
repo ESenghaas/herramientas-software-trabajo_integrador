@@ -30,3 +30,12 @@ Gráficos y exportación a /plots
 
 ### Día 7 — Ejercicio 07
 - Agrego conclusiones finales al README.md
+
+
+# SPRINT - 2
+
+### Día 1 — Ejercicio 01
+- Creación de rama Sprint_2 a partir de Sprint_1.
+- Descarga y descompresión del dataset de imágenes en data/raw/imgs.
+- Actualización de README.md con objetivo y contexto del Sprint 2.
+

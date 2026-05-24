@@ -49,3 +49,9 @@ Gráficos y exportación a /plots
 - Suavizado gaussiano en data/interim/imgs/03_02_blur/plates y completes.
 - Detección de bordes Canny en data/interim/imgs/03_03_canny/plates y completes.
 - Visualización de imágenes procesadas en cada paso.
+
+### Día 4 — Ejercicio 04
+- Extracción de patentes de todas las imágenes usando easyocr.
+- Match de patentes con dataset de multas (umbral 80%).
+- Generación de speeding_fines_image.csv con columnas:
+  imagen, patente_imagen, ratio.

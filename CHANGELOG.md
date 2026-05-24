@@ -55,3 +55,10 @@ Gráficos y exportación a /plots
 - Match de patentes con dataset de multas (umbral 80%).
 - Generación de speeding_fines_image.csv con columnas:
   imagen, patente_imagen, ratio.
+
+### Día 5 — Ejercicio 05
+- Cantidad de multas sin imágenes según exceso_velocidad.
+- Cantidad de multas con imágenes según exceso_velocidad.
+- Cantidad de imágenes sin match con el dataset.
+- Cantidad de multas pendientes de pago.
+- Cantidad de multas pendientes de pago con imágenes relacionadas.

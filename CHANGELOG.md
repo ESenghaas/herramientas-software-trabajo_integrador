@@ -62,3 +62,9 @@ Gráficos y exportación a /plots
 - Cantidad de imágenes sin match con el dataset.
 - Cantidad de multas pendientes de pago.
 - Cantidad de multas pendientes de pago con imágenes relacionadas.
+
+### Día 6 — Ejercicio 06
+- Cálculo de totales y porcentajes de cobertura visual.
+- Porcentaje de multas con y sin imagen asociada.
+- Porcentaje de multas pendientes de pago con imagen.
+- Conclusiones finales del Sprint 2 agregadas al README.md.

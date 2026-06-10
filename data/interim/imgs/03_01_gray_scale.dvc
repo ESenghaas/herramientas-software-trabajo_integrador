@@ -1,0 +1,6 @@
+outs:
+- md5: aab8c3c4713f8802ddd64bd3389426d2.dir
+  size: 3988004
+  nfiles: 106
+  hash: md5
+  path: 03_01_gray_scale

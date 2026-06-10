@@ -76,3 +76,11 @@ Gráficos y exportación a /plots
 - Creación de rama Sprint_3 a partir de Sprint_2.
 - Verificación de acceso a todos los datasets generados en sprints anteriores.
 
+
+### Día 2 — Ejercicio 02
+- Creación de directorio /content/remote_dvc como remote DVC local.
+- Migración de data/raw/imgs a DVC.
+- Migración de data/interim/imgs/03_01_gray_scale a DVC.
+- Migración de data/interim/imgs/03_02_blur a DVC.
+- Migración de data/interim/imgs/03_03_canny a DVC.
+

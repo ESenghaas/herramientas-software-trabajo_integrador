@@ -68,3 +68,11 @@ Gráficos y exportación a /plots
 - Porcentaje de multas con y sin imagen asociada.
 - Porcentaje de multas pendientes de pago con imagen.
 - Conclusiones finales del Sprint 2 agregadas al README.md.
+
+
+## Sprint 3
+
+### Día 1 — Ejercicio 01
+- Creación de rama Sprint_3 a partir de Sprint_2.
+- Verificación de acceso a todos los datasets generados en sprints anteriores.
+

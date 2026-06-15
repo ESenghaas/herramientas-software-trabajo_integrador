@@ -84,3 +84,11 @@ Gráficos y exportación a /plots
 - Migración de data/interim/imgs/03_02_blur a DVC.
 - Migración de data/interim/imgs/03_03_canny a DVC.
 
+
+### Día 3 — Ejercicio 03
+- Diseño del modelo lógico con clases Vehiculo, Radar, Evidencia y Multa.
+- Visualización del diagrama de relaciones entre entidades.
+
+### Día 4 — Ejercicio 04
+- Implementación de la función procesar_fila_csv.
+- Mapeo de filas del CSV a instancias de las clases del modelo lógico.

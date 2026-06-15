@@ -100,3 +100,11 @@ Gráficos y exportación a /plots
 - Implementación de relaciones entre tablas mediante Foreign Keys y relationship().
 - Sobrescritura del método __repr__ para mejorar la legibilidad de los objetos.
 
+
+### Día 6 — Ejercicio 06
+- Creación de la base de datos transito utilizando SQLAlchemy.
+- Generación automática de las tablas a partir del modelo relacional.
+- Migración de los datos desde el archivo speeding_fines_image.csv.
+- Inserción de vehículos, radares, multas y evidencias respetando las relaciones definidas.
+- Validación de la cantidad de registros insertados en cada tabla.
+

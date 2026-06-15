@@ -1,0 +1,6 @@
+outs:
+- md5: 24ef375e37c891534c7db7fc39ca4cde.dir
+  size: 2557912
+  nfiles: 106
+  hash: md5
+  path: 03_02_blur

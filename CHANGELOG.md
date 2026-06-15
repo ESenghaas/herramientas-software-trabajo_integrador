@@ -92,3 +92,11 @@ Gráficos y exportación a /plots
 ### Día 4 — Ejercicio 04
 - Implementación de la función procesar_fila_csv.
 - Mapeo de filas del CSV a instancias de las clases del modelo lógico.
+
+### Día 5 — Ejercicio 05
+- Diseño del modelo relacional utilizando SQLAlchemy.
+- Creación de las tablas Vehiculo, Radar, Multa y Evidencia.
+- Definición de claves primarias en todos los modelos.
+- Implementación de relaciones entre tablas mediante Foreign Keys y relationship().
+- Sobrescritura del método __repr__ para mejorar la legibilidad de los objetos.
+

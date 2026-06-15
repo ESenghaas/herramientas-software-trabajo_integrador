@@ -115,3 +115,9 @@ Gráficos y exportación a /plots
 - Consulta 4: top 10 patentes reincidentes en periodo dado (desc).
 - Consulta 5: porcentaje de multas confirmadas visualmente.
 
+
+### Día 8 — Ejercicio 08
+- Creación de la base de datos vectorial patente_vectorial con OpenCLIP.
+- Generación de embeddings de las imágenes con el modelo ViT-B-32.
+- Almacenamiento del id del vehículo junto al vector de cada imagen.
+- Población de la base vectorial vinculándola con la base relacional.

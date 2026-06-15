@@ -121,3 +121,13 @@ Gráficos y exportación a /plots
 - Generación de embeddings de las imágenes con el modelo ViT-B-32.
 - Almacenamiento del id del vehículo junto al vector de cada imagen.
 - Población de la base vectorial vinculándola con la base relacional.
+
+### Día 9 — Ejercicio 09
+- Implementación de la función buscar_patente_imagen.
+- Búsqueda de vehículos por similitud de imagen con ChromaDB.
+- Retorno de datos del vehículo desde la base relacional.
+
+### Día 10 — Ejercicio 10
+- Redacción de conclusión final del proyecto.
+- Análisis de resultados obtenidos en los tres sprints.
+
